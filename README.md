@@ -4,7 +4,7 @@ ShadowGlow is a lightweight SwiftUI library that creates a realistic glow effect
 
 ## Preview
 
-<div align="center">
+<div align="leading">
   <img src="assets/preview.png" width="300" alt="ShadowGlow Preview">
 </div>
 
