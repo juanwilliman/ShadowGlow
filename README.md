@@ -2,6 +2,12 @@
 
 ShadowGlow is a lightweight SwiftUI library that creates a realistic glow effect by mirroring the view's content itself, rather than using a simple shadow color. This creates a vibrant, dynamic "glow" illusion that matches your view's actual colors.
 
+## Preview
+
+<div align="center">
+  <img src="assets/preview.png" width="300" alt="ShadowGlow Preview">
+</div>
+
 ## Features
 
 - 🌟 **Dynamic Glow**: Uses the view's own content to generate the shadow, preserving colors and gradients.
@@ -14,8 +20,17 @@ ShadowGlow is a lightweight SwiftUI library that creates a realistic glow effect
 ### Swift Package Manager
 
 1. In Xcode, select **File** > **Add Packages...**
-2. Paste the URL of this repository into the search bar.
+2. Paste the URL of this repository into the search bar:
+   ```
+   https://github.com/juanwilliman/ShadowGlow
+   ```
 3. Select **ShadowGlow** and click **Add Package**.
+
+### Manual Installation (Gist)
+
+If you prefer not to add the package as a dependency, you can simply copy and paste the code from the following Gist directly into your project:
+
+[View Gist on GitHub](https://gist.github.com/juanwilliman/7b423c658dcb006964addf53bf87da31)
 
 ## Usage
 
